@@ -1,0 +1,6 @@
+.DS_*
+/build
+build.log
+.project
+LICENSE*
+CHANGELOG.*

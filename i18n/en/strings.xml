@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="events">Events</string>
+    <string name="fyi">Information</string>
+	<string name="joe_info">Senior Vice President - has over 16 years of experience as a technical architect, developer, and business leader. His most recent endeavor is the establishment of Vizuri,a business unit of Applied Engineering Management Corporation that delivers advanced information systems and electronic commerce solutions for the private sector. As Managing Director, Joe is responsible for overall operations of Vizuri.</string>
+	<string name="doug_info">Tech guy with Java bias. Fascinated with impact of technology on business and social relationships. Jesus follower, family man, runner, diver.</string>
+	<string name="sharon_info">A whole latta info.</string>
+</resources>
